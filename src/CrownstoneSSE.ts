@@ -34,9 +34,9 @@ export const SseClassGenerator = function(options: sseConstructorOptions) : { ne
 
 
   const DEFAULT_URLS = {
-    sseUrl:       "https://events.crownstone.rocks/sse",
-    loginUrl:     "https://cloud.crownstone.rocks/api/users/login",
-    hubLoginBase: "https://cloud.crownstone.rocks/api/Hubs/"
+    sseUrl:       "https://events.ownstone.org/sse",
+    loginUrl:     "https://cloud.ownstone.org/api/users/login",
+    hubLoginBase: "https://cloud.ownstone.org/api/Hubs/"
   }
 
 
